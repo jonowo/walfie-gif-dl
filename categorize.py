@@ -16,13 +16,6 @@ for post in data:
     for tag in post["tags"]:
         categories[tag].append(post)
 
-
-def get_link_name(name) -> str:
-    name = name.lower().replace(" ", "-")
-    name = "".join(c if c.isalnum() or c in "-_" else "" for c in name)
-    return name
-
-
 with open(FN, "w") as f:
     print("# Categories", file=f)
     for tag in tags:

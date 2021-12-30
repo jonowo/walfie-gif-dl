@@ -39,7 +39,7 @@ posts = browser.find_elements_by_class_name("post")
 for post in posts:
     post_url = post.find_element_by_class_name("entry-image-link").get_attribute("href")
     gif_url = post.find_element_by_class_name("wp-post-image").get_attribute("src")
-    gif_url = urljoin(gif_url, urlparse(gif_url).path)
+    gif_url = urljoin(gif_url, urlparse(gif_url).path)  # Remove query params
     title = post.find_element_by_class_name("entry-title").text
 
     try:
