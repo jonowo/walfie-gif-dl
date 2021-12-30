@@ -17,7 +17,7 @@
 - [Kureiji Ollie](#kureiji-ollie)
 - [Moona Hoshinova](#moona-hoshinova)
 - [Nijisanji](#nijisanji)
-- [Ninomae Ina'nis](#ninomae-ina'nis)
+- [Ninomae Ina'nis](#ninomae-inanis)
 - [Omaru Polka](#omaru-polka)
 - [Oozora Subaru](#oozora-subaru)
 - [Petra Gurin](#petra-gurin)
