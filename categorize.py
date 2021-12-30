@@ -26,9 +26,9 @@ def get_link_name(name) -> str:
 with open(FN, "w") as f:
     print("# Categories", file=f)
     for tag in tags:
-        print(f"- [{string.capwords(tag)}](#{get_link_name(tag)})", file=f)
-    for tag in tags:
         print(file=f)
-        print(f"## {string.capwords(tag)}", file=f)
+        print("<details>", file=f)
+        print(f"    <summary>{string.capwords(tag)}</summary>", file=f)
         for post in categories[tag]:
-            print(f'<img src="{post["path"]}" height="256">', file=f)
+            print(f'    <img src="{post["path"]}" height="256">', file=f)
+        print("</details>", file=f)
