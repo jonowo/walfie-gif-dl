@@ -23,7 +23,7 @@ browser.get("https://walfiegif.wordpress.com/")
 logger.info("Scrolling to bottom...")
 while True:
     browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-    time.sleep(1)
+    time.sleep(0.5)
     try:
         # Check if bottommost post is loaded
         browser.find_element_by_id("post-17")

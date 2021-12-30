@@ -37,14 +37,14 @@ with open("data.json") as f:
 
 # Download GIFs
 logger.info(f"Downloading {len(data)} GIFs...")
-for post in data:
+for post in data[::-1]:  # Make sure old post filenames are not affected
     resp = requests.get(post["gif"])
     resp.raise_for_status()
     fn = get_filename(post["title"])
     post["path"] = fn
     with open(fn, "wb") as f:
         f.write(resp.content)
-    time.sleep(0.5)
+    time.sleep(0.25)
 logger.info("Download complete.")
 
 with open("data.json", "w") as f:
