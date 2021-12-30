@@ -1,8 +1,9 @@
 import itertools
 import json
 import logging
-import os.path
+import os
 import re
+import shutil
 import time
 
 import requests
@@ -27,7 +28,11 @@ def get_filename(name) -> str:
             return DOWNLOAD_PATH + fn + str(i) + ext
 
 
-with open("data.json", "r") as f:
+if os.path.isdir(DOWNLOAD_PATH):
+    shutil.rmtree(DOWNLOAD_PATH)
+os.mkdir(DOWNLOAD_PATH)
+
+with open("data.json") as f:
     data = json.load(f)
 
 # Download GIFs
@@ -35,7 +40,12 @@ logger.info(f"Downloading {len(data)} GIFs...")
 for post in data:
     resp = requests.get(post["gif"])
     resp.raise_for_status()
-    with open(get_filename(post["title"]), "wb") as f:
+    fn = get_filename(post["title"])
+    post["path"] = fn
+    with open(fn, "wb") as f:
         f.write(resp.content)
     time.sleep(0.5)
 logger.info("Download complete.")
+
+with open("data.json", "w") as f:
+    json.dump(data, f, indent=4)
