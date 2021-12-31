@@ -29,14 +29,11 @@ jobs:
           pip install -U pip setuptools wheel
           pip install -Ur requirements.txt
 
-      - name: Fetch data
-        run: python fetch.py
-
-      - name: Download GIFs
-        run: python download.py
-
-      - name: Generate categories.md
-        run: python categorize.py
+      - name: Update
+        run: |
+          python fetch.py
+          python download.py
+          python categorize.py
 
       - name: Commit files and push changes
         run: |

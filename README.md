@@ -10,7 +10,7 @@ View GIFs by category [here](categories.md).
 ## Usage
 Requirements
 - Python 3.7+
-- [geckodriver](https://github.com/mozilla/geckodriver/releases) 0.30+ (add it in PATH)
+- [geckodriver](https://github.com/mozilla/geckodriver/releases) 0.30+ (add it to PATH)
 
 Install dependencies
 ```bash
