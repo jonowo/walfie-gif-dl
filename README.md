@@ -8,9 +8,11 @@ View GIFs by category [here](categories.md).
 <img src="gifs/ameJAM.gif" height="360">
 
 ## Usage
-Install requirements
+Requirements: Python 3.7+
+
+Install dependencies
 ```bash
-pip install -U -r requirements.txt
+pip install -Ur requirements.txt
 ```
 
 Fetch GIF data

@@ -1,5 +1,6 @@
 import json
 import string
+from datetime import datetime
 
 FN = "categories.md"
 
@@ -18,6 +19,7 @@ for post in data:
 
 with open(FN, "w") as f:
     print("# Categories", file=f)
+    print("Last updated:", str(datetime.utcnow().replace(microsecond=0)), "UTC", file=f)
     for tag in tags:
         print(file=f)
         print("<details>", file=f)
