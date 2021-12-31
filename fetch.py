@@ -7,6 +7,7 @@ from urllib.parse import urljoin, urlparse
 
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver import Firefox
+from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
 
 URL = "https://walfiegif.wordpress.com/"
@@ -26,7 +27,7 @@ while True:
     time.sleep(0.5)
     try:
         # Check if bottommost post is loaded
-        browser.find_element_by_id("post-17")
+        browser.find_element(By.ID, "post-17")
     except NoSuchElementException:
         continue
     else:
@@ -35,15 +36,15 @@ while True:
 # Scrape data
 logging.info("Scraping data...")
 data = []
-posts = browser.find_elements_by_class_name("post")
+posts = browser.find_elements(By.CLASS_NAME, "post")
 for post in posts:
-    post_url = post.find_element_by_class_name("entry-image-link").get_attribute("href")
-    gif_url = post.find_element_by_class_name("wp-post-image").get_attribute("src")
+    post_url = post.find_element(By.CLASS_NAME, "entry-image-link").get_attribute("href")
+    gif_url = post.find_element(By.CLASS_NAME, "wp-post-image").get_attribute("src")
     gif_url = urljoin(gif_url, urlparse(gif_url).path)  # Remove query params
-    title = post.find_element_by_class_name("entry-title").text
+    title = post.find_element(By.CLASS_NAME, "entry-title").text
 
     try:
-        tags = post.find_element_by_class_name("entry-tags").text.split(", ")
+        tags = post.find_element(By.CLASS_NAME, "entry-tags").text.split(", ")
     except NoSuchElementException:
         if title == "crunchy marshmallow":
             tags = [
