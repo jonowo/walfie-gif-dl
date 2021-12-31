@@ -34,7 +34,7 @@ while True:
         break
 
 # Scrape data
-logging.info("Scraping data...")
+logger.info("Scraping data...")
 data = []
 posts = browser.find_elements(By.CLASS_NAME, "post")
 for post in posts:
@@ -69,4 +69,4 @@ for post in posts:
 
 with open("data.json", "w") as f:
     json.dump(data, f, indent=4, default=str)
-logging.info("Stored data.")
+logger.info("Stored data.")
