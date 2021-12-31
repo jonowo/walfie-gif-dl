@@ -8,7 +8,9 @@ View GIFs by category [here](categories.md).
 <img src="gifs/ameJAM.gif" height="360">
 
 ## Usage
-Requirements: Python 3.7+
+Requirements
+- Python 3.7+
+- [geckodriver](https://github.com/mozilla/geckodriver/releases) 0.30+ (add it in PATH)
 
 Install dependencies
 ```bash
