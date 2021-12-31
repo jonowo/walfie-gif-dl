@@ -17,7 +17,7 @@ logger = logging.getLogger(__name__)
 options = Options()
 options.headless = True
 browser = Firefox(options=options)
-browser.get("https://walfiegif.wordpress.com/")
+browser.get(URL)
 
 # Scroll to bottom to load all posts
 logger.info("Scrolling to bottom...")

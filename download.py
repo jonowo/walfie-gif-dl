@@ -37,7 +37,8 @@ with open("data.json") as f:
 
 # Download GIFs
 logger.info(f"Downloading {len(data)} GIFs...")
-for post in data[::-1]:  # Make sure old post filenames are not affected
+# Download older posts first to make sure their file names are not taken
+for post in data[::-1]:
     resp = requests.get(post["gif"])
     resp.raise_for_status()
     fn = get_filename(post["title"])
