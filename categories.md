@@ -1,9 +1,8 @@
 # Categories
-Last updated: 2022-01-01 05:10:19 UTC
+Last updated: 2022-01-01 06:13:18 UTC
 
 <details>
     <summary>A-chan</summary>
-    <img src="gifs/A_chan1.gif" height="256">
     <img src="gifs/A_chan.gif" height="256">
 </details>
 
@@ -23,7 +22,10 @@ Last updated: 2022-01-01 05:10:19 UTC
     <img src="gifs/popcorn.gif" height="256">
     <img src="gifs/mythiversary.gif" height="256">
     <img src="gifs/fast.gif" height="256">
-    <img src="gifs/dance2.gif" height="256">
+    <img src="gifs/dance1.gif" height="256">
+    <img src="gifs/bubba.gif" height="256">
+    <img src="gifs/windows.gif" height="256">
+    <img src="gifs/axeson.gif" height="256">
     <img src="gifs/rotation.gif" height="256">
     <img src="gifs/eat.gif" height="256">
     <img src="gifs/party.gif" height="256">
@@ -76,20 +78,25 @@ Last updated: 2022-01-01 05:10:19 UTC
     <img src="gifs/EliraGotCake2021.gif" height="256">
     <img src="gifs/fightstick.gif" height="256">
     <img src="gifs/PPBirthday2021.gif" height="256">
-    <img src="gifs/birbday1.gif" height="256">
-    <img src="gifs/Doritos1.gif" height="256">
-    <img src="gifs/cake2.gif" height="256">
     <img src="gifs/birbday.gif" height="256">
     <img src="gifs/Doritos.gif" height="256">
+    <img src="gifs/cake2.gif" height="256">
     <img src="gifs/cake1.gif" height="256">
+    <img src="gifs/birth.gif" height="256">
     <img src="gifs/cake.gif" height="256">
+</details>
+
+<details>
+    <summary>Bubba</summary>
+    <img src="gifs/bubba.gif" height="256">
 </details>
 
 <details>
     <summary>Calliope Mori</summary>
     <img src="gifs/mythiversary.gif" height="256">
-    <img src="gifs/roki1.gif" height="256">
     <img src="gifs/roki.gif" height="256">
+    <img src="gifs/rap.gif" height="256">
+    <img src="gifs/birth.gif" height="256">
     <img src="gifs/recorder.gif" height="256">
     <img src="gifs/splash.gif" height="256">
     <img src="gifs/calliop3.gif" height="256">
@@ -109,7 +116,6 @@ Last updated: 2022-01-01 05:10:19 UTC
 
 <details>
     <summary>Finana Ryugu</summary>
-    <img src="gifs/Doritos1.gif" height="256">
     <img src="gifs/Doritos.gif" height="256">
 </details>
 
@@ -118,7 +124,6 @@ Last updated: 2022-01-01 05:10:19 UTC
     <img src="gifs/spin.gif" height="256">
     <img src="gifs/mythiversary.gif" height="256">
     <img src="gifs/cake2.gif" height="256">
-    <img src="gifs/cake1.gif" height="256">
     <img src="gifs/vacuum.gif" height="256">
     <img src="gifs/battleblock.gif" height="256">
     <img src="gifs/shark_rap.gif" height="256">
@@ -149,21 +154,22 @@ Last updated: 2022-01-01 05:10:19 UTC
     <img src="gifs/mythiversary.gif" height="256">
     <img src="gifs/violet.gif" height="256">
     <img src="gifs/fast.gif" height="256">
-    <img src="gifs/dance2.gif" height="256">
-    <img src="gifs/birbday1.gif" height="256">
-    <img src="gifs/cake2.gif" height="256">
-    <img src="gifs/Coco1.gif" height="256">
-    <img src="gifs/roki1.gif" height="256">
-    <img src="gifs/jumping1.gif" height="256">
-    <img src="gifs/A_chan1.gif" height="256">
     <img src="gifs/dance1.gif" height="256">
     <img src="gifs/birbday.gif" height="256">
-    <img src="gifs/cake1.gif" height="256">
+    <img src="gifs/cake2.gif" height="256">
     <img src="gifs/Coco.gif" height="256">
     <img src="gifs/roki.gif" height="256">
     <img src="gifs/jumping.gif" height="256">
     <img src="gifs/A_chan.gif" height="256">
     <img src="gifs/dance.gif" height="256">
+    <img src="gifs/cake1.gif" height="256">
+    <img src="gifs/rap.gif" height="256">
+    <img src="gifs/Unravel.gif" height="256">
+    <img src="gifs/bubba.gif" height="256">
+    <img src="gifs/windows.gif" height="256">
+    <img src="gifs/hammer.gif" height="256">
+    <img src="gifs/axeson.gif" height="256">
+    <img src="gifs/birth.gif" height="256">
     <img src="gifs/rotation.gif" height="256">
     <img src="gifs/eat.gif" height="256">
     <img src="gifs/vacuum.gif" height="256">
@@ -261,7 +267,6 @@ Last updated: 2022-01-01 05:10:19 UTC
 
 <details>
     <summary>Kiryu Coco</summary>
-    <img src="gifs/Coco1.gif" height="256">
     <img src="gifs/Coco.gif" height="256">
 </details>
 
@@ -290,20 +295,21 @@ Last updated: 2022-01-01 05:10:19 UTC
     <img src="gifs/kick_the_baby.gif" height="256">
     <img src="gifs/paindora.gif" height="256">
     <img src="gifs/PPBirthday2021.gif" height="256">
-    <img src="gifs/kecha1.gif" height="256">
-    <img src="gifs/cash1.gif" height="256">
-    <img src="gifs/Doritos1.gif" height="256">
     <img src="gifs/kecha.gif" height="256">
     <img src="gifs/cash.gif" height="256">
     <img src="gifs/Doritos.gif" height="256">
+    <img src="gifs/cyclone.gif" height="256">
+    <img src="gifs/pomu.gif" height="256">
 </details>
 
 <details>
     <summary>Ninomae Ina'nis</summary>
     <img src="gifs/mythiversary.gif" height="256">
     <img src="gifs/violet.gif" height="256">
-    <img src="gifs/dance1.gif" height="256">
     <img src="gifs/dance.gif" height="256">
+    <img src="gifs/cake1.gif" height="256">
+    <img src="gifs/Unravel.gif" height="256">
+    <img src="gifs/hammer.gif" height="256">
     <img src="gifs/pogo.gif" height="256">
     <img src="gifs/mixing.gif" height="256">
     <img src="gifs/watson_parade.gif" height="256">
@@ -340,10 +346,10 @@ Last updated: 2022-01-01 05:10:19 UTC
     <img src="gifs/baseball.gif" height="256">
     <img src="gifs/kick_the_baby.gif" height="256">
     <img src="gifs/PPBirthday2021.gif" height="256">
-    <img src="gifs/kecha1.gif" height="256">
-    <img src="gifs/cash1.gif" height="256">
     <img src="gifs/kecha.gif" height="256">
     <img src="gifs/cash.gif" height="256">
+    <img src="gifs/cyclone.gif" height="256">
+    <img src="gifs/pomu.gif" height="256">
 </details>
 
 <details>
@@ -365,8 +371,6 @@ Last updated: 2022-01-01 05:10:19 UTC
 <details>
     <summary>Takanashi Kiara</summary>
     <img src="gifs/mythiversary.gif" height="256">
-    <img src="gifs/birbday1.gif" height="256">
-    <img src="gifs/jumping1.gif" height="256">
     <img src="gifs/birbday.gif" height="256">
     <img src="gifs/jumping.gif" height="256">
     <img src="gifs/rotation.gif" height="256">
