@@ -1,5 +1,5 @@
 # Categories
-Last updated: 2022-01-06 18:11:19 UTC
+Last updated: 2022-01-06 19:08:34 UTC
 
 <details>
     <summary>A-chan</summary>
@@ -18,6 +18,7 @@ Last updated: 2022-01-06 18:11:19 UTC
 
 <details>
     <summary>Amelia Watson</summary>
+    <img src="gifs/Ame_Birthday_2022.gif" height="256">
     <img src="gifs/ameJAM.gif" height="256">
     <img src="gifs/popcorn.gif" height="256">
     <img src="gifs/mythiversary.gif" height="256">
@@ -73,6 +74,7 @@ Last updated: 2022-01-06 18:11:19 UTC
 
 <details>
     <summary>Birthday</summary>
+    <img src="gifs/Ame_Birthday_2022.gif" height="256">
     <img src="gifs/PetraBday2021.gif" height="256">
     <img src="gifs/SelenBday2021.gif" height="256">
     <img src="gifs/EliraGotCake2021.gif" height="256">
@@ -148,6 +150,7 @@ Last updated: 2022-01-06 18:11:19 UTC
 
 <details>
     <summary>Hololive</summary>
+    <img src="gifs/Ame_Birthday_2022.gif" height="256">
     <img src="gifs/ameJAM.gif" height="256">
     <img src="gifs/popcorn.gif" height="256">
     <img src="gifs/spin.gif" height="256">
