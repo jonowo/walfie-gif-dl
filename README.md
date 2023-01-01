@@ -1,11 +1,11 @@
 # walfie-gif-dl
+View Walfie's GIFs by category in [categories.md](categories.md).
+
 Download GIFs on https://walfiegif.wordpress.com/.
 
 All credit goes to [Walfie](https://social.aikats.us/) for drawing the GIFs.
 
-View GIFs by category [here](categories.md).
-
-<img src="gifs/ameJAM.gif" height="360">
+<img src="gifs/ameJAM.gif" height="300">
 
 ## Usage
 Requirements
