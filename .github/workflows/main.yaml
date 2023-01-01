@@ -12,8 +12,8 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v2
 
-      - name: Set up Geckodriver
-        uses: browser-actions/setup-geckodriver@latest
+      - name: Setup Geckodriver (Node 16)
+        uses: midnight-madman/setup-geckodriver@v0.2
 
       - name: Set up Python
         uses: actions/setup-python@v2
