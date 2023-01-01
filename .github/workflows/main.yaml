@@ -1,0 +1,40 @@
+name: main
+
+on:
+  schedule:
+    - cron: '42 * * * *'
+
+jobs:
+  update:
+    name: update
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Set up Geckodriver
+        uses: browser-actions/setup-geckodriver@latest
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          pip install -U pip setuptools wheel
+          pip install -Ur requirements.txt
+
+      - name: Update
+        run: |
+          python fetch.py
+          python download.py
+          python categorize.py
+
+      - name: Commit files and push changes
+        run: |
+          git config --local user.name 'jonowo/walfie-gif-dl'
+          git config --local user.email 'jowonowo+automated@gmail.com'
+          git commit -am "Automated update"
+          git push

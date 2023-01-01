@@ -1,5 +1,5 @@
 # Categories
-Last updated: 2022-01-15 16:12:36 UTC
+Last updated: 2023-01-01 04:09:24 UTC
 
 <details>
     <summary>A-chan</summary>
@@ -18,6 +18,7 @@ Last updated: 2022-01-15 16:12:36 UTC
 
 <details>
     <summary>Amelia Watson</summary>
+    <img src="gifs/mascot.gif" height="256">
     <img src="gifs/Ame_Birthday_2022.gif" height="256">
     <img src="gifs/ameJAM.gif" height="256">
     <img src="gifs/popcorn.gif" height="256">
@@ -74,6 +75,8 @@ Last updated: 2022-01-15 16:12:36 UTC
 
 <details>
     <summary>Birthday</summary>
+    <img src="gifs/choo_choo.gif" height="256">
+    <img src="gifs/Koragi_Birthday_2022.gif" height="256">
     <img src="gifs/Ame_Birthday_2022.gif" height="256">
     <img src="gifs/PetraBday2021.gif" height="256">
     <img src="gifs/SelenBday2021.gif" height="256">
@@ -111,13 +114,20 @@ Last updated: 2022-01-15 16:12:36 UTC
 </details>
 
 <details>
+    <summary>Chiavtuber</summary>
+    <img src="gifs/Chia_1_year.gif" height="256">
+</details>
+
+<details>
     <summary>Elira Pendora</summary>
+    <img src="gifs/LazuLight_1_year.gif" height="256">
     <img src="gifs/EliraGotCake2021.gif" height="256">
     <img src="gifs/paindora.gif" height="256">
 </details>
 
 <details>
     <summary>Finana Ryugu</summary>
+    <img src="gifs/LazuLight_1_year.gif" height="256">
     <img src="gifs/Doritos.gif" height="256">
 </details>
 
@@ -150,6 +160,8 @@ Last updated: 2022-01-15 16:12:36 UTC
 
 <details>
     <summary>Hololive</summary>
+    <img src="gifs/pomutori.gif" height="256">
+    <img src="gifs/mascot.gif" height="256">
     <img src="gifs/Ame_Birthday_2022.gif" height="256">
     <img src="gifs/ameJAM.gif" height="256">
     <img src="gifs/popcorn.gif" height="256">
@@ -263,6 +275,13 @@ Last updated: 2022-01-15 16:12:36 UTC
 </details>
 
 <details>
+    <summary>Indie Vtuber</summary>
+    <img src="gifs/Chia_1_year.gif" height="256">
+    <img src="gifs/Koragi_Birthday_2022.gif" height="256">
+    <img src="gifs/butter_dog.gif" height="256">
+</details>
+
+<details>
     <summary>Inugami Korone</summary>
     <img src="gifs/denied.gif" height="256">
     <img src="gifs/bomb_defusal.gif" height="256">
@@ -271,6 +290,12 @@ Last updated: 2022-01-15 16:12:36 UTC
 <details>
     <summary>Kiryu Coco</summary>
     <img src="gifs/Coco.gif" height="256">
+</details>
+
+<details>
+    <summary>Koragi</summary>
+    <img src="gifs/Koragi_Birthday_2022.gif" height="256">
+    <img src="gifs/butter_dog.gif" height="256">
 </details>
 
 <details>
@@ -285,6 +310,10 @@ Last updated: 2022-01-15 16:12:36 UTC
 
 <details>
     <summary>Nijisanji</summary>
+    <img src="gifs/pomutori.gif" height="256">
+    <img src="gifs/choo_choo.gif" height="256">
+    <img src="gifs/LazuLight_1_year.gif" height="256">
+    <img src="gifs/sword.gif" height="256">
     <img src="gifs/PetraBday2021.gif" height="256">
     <img src="gifs/SelenBday2021.gif" height="256">
     <img src="gifs/EliraGotCake2021.gif" height="256">
@@ -342,6 +371,10 @@ Last updated: 2022-01-15 16:12:36 UTC
 
 <details>
     <summary>Pomu Rainpuff</summary>
+    <img src="gifs/pomutori.gif" height="256">
+    <img src="gifs/choo_choo.gif" height="256">
+    <img src="gifs/LazuLight_1_year.gif" height="256">
+    <img src="gifs/sword.gif" height="256">
     <img src="gifs/jump_rope.gif" height="256">
     <img src="gifs/skate.gif" height="256">
     <img src="gifs/pizza.gif" height="256">
@@ -373,6 +406,7 @@ Last updated: 2022-01-15 16:12:36 UTC
 
 <details>
     <summary>Takanashi Kiara</summary>
+    <img src="gifs/pomutori.gif" height="256">
     <img src="gifs/mythiversary.gif" height="256">
     <img src="gifs/birbday.gif" height="256">
     <img src="gifs/jumping.gif" height="256">
