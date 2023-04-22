@@ -1,5 +1,5 @@
 # Categories
-Last updated: 2023-04-22 04:48:33 UTC
+Last updated: 2023-04-22 05:48:29 UTC
 
 <details>
     <summary>A-chan</summary>
@@ -118,6 +118,11 @@ Last updated: 2023-04-22 04:48:33 UTC
 <details>
     <summary>Chiavtuber</summary>
     <img src="gifs/Chia_1_year.gif" height="256">
+</details>
+
+<details>
+    <summary>Chocojax</summary>
+    <img src="gifs/chocojax_drawing.gif" height="256">
 </details>
 
 <details>
@@ -279,6 +284,7 @@ Last updated: 2023-04-22 04:48:33 UTC
 
 <details>
     <summary>Indie Vtuber</summary>
+    <img src="gifs/chocojax_drawing.gif" height="256">
     <img src="gifs/Chia_1_year.gif" height="256">
     <img src="gifs/Koragi_Birthday_2022.gif" height="256">
     <img src="gifs/butter_dog.gif" height="256">
