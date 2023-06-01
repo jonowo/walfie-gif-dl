@@ -1,5 +1,5 @@
 # Categories
-Last updated: 2023-06-01 16:48:55 UTC
+Last updated: 2023-06-01 17:48:23 UTC
 
 <details>
     <summary>A-chan</summary>
@@ -284,6 +284,7 @@ Last updated: 2023-06-01 16:48:55 UTC
 
 <details>
     <summary>Indie Vtuber</summary>
+    <img src="gifs/munibug_sip.gif" height="256">
     <img src="gifs/chocojax_drawing.gif" height="256">
     <img src="gifs/Chia_1_year.gif" height="256">
     <img src="gifs/Koragi_Birthday_2022.gif" height="256">
@@ -315,6 +316,11 @@ Last updated: 2023-06-01 16:48:55 UTC
 <details>
     <summary>Moona Hoshinova</summary>
     <img src="gifs/battle_for_pekora.gif" height="256">
+</details>
+
+<details>
+    <summary>Munibug</summary>
+    <img src="gifs/munibug_sip.gif" height="256">
 </details>
 
 <details>
