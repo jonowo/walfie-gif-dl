@@ -1,5 +1,5 @@
 # Categories
-Last updated: 2023-06-05 03:48:25 UTC
+Last updated: 2023-06-05 04:48:44 UTC
 
 <details>
     <summary>A-chan</summary>
@@ -18,6 +18,7 @@ Last updated: 2023-06-05 03:48:25 UTC
 
 <details>
     <summary>Amelia Watson</summary>
+    <img src="gifs/Ame_cheering.gif" height="256">
     <img src="gifs/Ame_kick.gif" height="256">
     <img src="gifs/mascot.gif" height="256">
     <img src="gifs/Ame_Birthday_2022.gif" height="256">
@@ -167,6 +168,7 @@ Last updated: 2023-06-05 03:48:25 UTC
 
 <details>
     <summary>Hololive</summary>
+    <img src="gifs/Ame_cheering.gif" height="256">
     <img src="gifs/Ame_kick.gif" height="256">
     <img src="gifs/pomutori.gif" height="256">
     <img src="gifs/mascot.gif" height="256">
