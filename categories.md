@@ -1,23 +1,23 @@
 # Categories
-Last updated: 2023-08-29 16:46:49 UTC
+Last updated: 2023-08-29 16:49:40 UTC
 
 <details>
-    <summary>A-chan</summary>
+    <summary>A-chan (1)</summary>
     <img src="gifs/A_chan.gif" height="256">
 </details>
 
 <details>
-    <summary>Akai Haato</summary>
+    <summary>Akai Haato (1)</summary>
     <img src="gifs/haachama_noodles.gif" height="256">
 </details>
 
 <details>
-    <summary>Amano Pikamee</summary>
+    <summary>Amano Pikamee (1)</summary>
     <img src="gifs/kick_the_baby.gif" height="256">
 </details>
 
 <details>
-    <summary>Amelia Watson</summary>
+    <summary>Amelia Watson (55)</summary>
     <img src="gifs/Ame_cheering.gif" height="256">
     <img src="gifs/Ame_kick.gif" height="256">
     <img src="gifs/mascot.gif" height="256">
@@ -76,7 +76,7 @@ Last updated: 2023-08-29 16:46:49 UTC
 </details>
 
 <details>
-    <summary>Birthday</summary>
+    <summary>Birthday (15)</summary>
     <img src="gifs/Ame_kick.gif" height="256">
     <img src="gifs/choo_choo.gif" height="256">
     <img src="gifs/Koragi_Birthday_2022.gif" height="256">
@@ -95,12 +95,12 @@ Last updated: 2023-08-29 16:46:49 UTC
 </details>
 
 <details>
-    <summary>Bubba</summary>
+    <summary>Bubba (1)</summary>
     <img src="gifs/bubba.gif" height="256">
 </details>
 
 <details>
-    <summary>Calliope Mori</summary>
+    <summary>Calliope Mori (13)</summary>
     <img src="gifs/mythiversary.gif" height="256">
     <img src="gifs/roki.gif" height="256">
     <img src="gifs/rap.gif" height="256">
@@ -117,30 +117,30 @@ Last updated: 2023-08-29 16:46:49 UTC
 </details>
 
 <details>
-    <summary>Chiavtuber</summary>
+    <summary>Chiavtuber (1)</summary>
     <img src="gifs/Chia_1_year.gif" height="256">
 </details>
 
 <details>
-    <summary>Chocojax</summary>
+    <summary>Chocojax (1)</summary>
     <img src="gifs/chocojax_drawing.gif" height="256">
 </details>
 
 <details>
-    <summary>Elira Pendora</summary>
+    <summary>Elira Pendora (3)</summary>
     <img src="gifs/LazuLight_1_year.gif" height="256">
     <img src="gifs/EliraGotCake2021.gif" height="256">
     <img src="gifs/paindora.gif" height="256">
 </details>
 
 <details>
-    <summary>Finana Ryugu</summary>
+    <summary>Finana Ryugu (2)</summary>
     <img src="gifs/LazuLight_1_year.gif" height="256">
     <img src="gifs/Doritos.gif" height="256">
 </details>
 
 <details>
-    <summary>Gawr Gura</summary>
+    <summary>Gawr Gura (23)</summary>
     <img src="gifs/spin.gif" height="256">
     <img src="gifs/mythiversary.gif" height="256">
     <img src="gifs/cake2.gif" height="256">
@@ -167,7 +167,7 @@ Last updated: 2023-08-29 16:46:49 UTC
 </details>
 
 <details>
-    <summary>Hololive</summary>
+    <summary>Hololive (104)</summary>
     <img src="gifs/Ame_cheering.gif" height="256">
     <img src="gifs/Ame_kick.gif" height="256">
     <img src="gifs/pomutori.gif" height="256">
@@ -275,17 +275,17 @@ Last updated: 2023-08-29 16:46:49 UTC
 </details>
 
 <details>
-    <summary>Hoshimachi Suisei</summary>
+    <summary>Hoshimachi Suisei (1)</summary>
     <img src="gifs/among_us.gif" height="256">
 </details>
 
 <details>
-    <summary>Houshou Marine</summary>
+    <summary>Houshou Marine (1)</summary>
     <img src="gifs/marinara_sauce.gif" height="256">
 </details>
 
 <details>
-    <summary>Indie Vtuber</summary>
+    <summary>Indie Vtuber (5)</summary>
     <img src="gifs/munibug_sip.gif" height="256">
     <img src="gifs/chocojax_drawing.gif" height="256">
     <img src="gifs/Chia_1_year.gif" height="256">
@@ -294,39 +294,39 @@ Last updated: 2023-08-29 16:46:49 UTC
 </details>
 
 <details>
-    <summary>Inugami Korone</summary>
+    <summary>Inugami Korone (2)</summary>
     <img src="gifs/denied.gif" height="256">
     <img src="gifs/bomb_defusal.gif" height="256">
 </details>
 
 <details>
-    <summary>Kiryu Coco</summary>
+    <summary>Kiryu Coco (1)</summary>
     <img src="gifs/Coco.gif" height="256">
 </details>
 
 <details>
-    <summary>Koragi</summary>
+    <summary>Koragi (2)</summary>
     <img src="gifs/Koragi_Birthday_2022.gif" height="256">
     <img src="gifs/butter_dog.gif" height="256">
 </details>
 
 <details>
-    <summary>Kureiji Ollie</summary>
+    <summary>Kureiji Ollie (1)</summary>
     <img src="gifs/eat.gif" height="256">
 </details>
 
 <details>
-    <summary>Moona Hoshinova</summary>
+    <summary>Moona Hoshinova (1)</summary>
     <img src="gifs/battle_for_pekora.gif" height="256">
 </details>
 
 <details>
-    <summary>Munibug</summary>
+    <summary>Munibug (1)</summary>
     <img src="gifs/munibug_sip.gif" height="256">
 </details>
 
 <details>
-    <summary>Nijisanji</summary>
+    <summary>Nijisanji (22)</summary>
     <img src="gifs/pomutori.gif" height="256">
     <img src="gifs/choo_choo.gif" height="256">
     <img src="gifs/LazuLight_1_year.gif" height="256">
@@ -352,7 +352,7 @@ Last updated: 2023-08-29 16:46:49 UTC
 </details>
 
 <details>
-    <summary>Ninomae Ina'nis</summary>
+    <summary>Ninomae Ina'nis (15)</summary>
     <img src="gifs/mythiversary.gif" height="256">
     <img src="gifs/violet.gif" height="256">
     <img src="gifs/dance.gif" height="256">
@@ -371,23 +371,23 @@ Last updated: 2023-08-29 16:46:49 UTC
 </details>
 
 <details>
-    <summary>Omaru Polka</summary>
+    <summary>Omaru Polka (2)</summary>
     <img src="gifs/rubber_chickens.gif" height="256">
     <img src="gifs/polkatsu.gif" height="256">
 </details>
 
 <details>
-    <summary>Oozora Subaru</summary>
+    <summary>Oozora Subaru (1)</summary>
     <img src="gifs/holobirds.gif" height="256">
 </details>
 
 <details>
-    <summary>Petra Gurin</summary>
+    <summary>Petra Gurin (1)</summary>
     <img src="gifs/PetraBday2021.gif" height="256">
 </details>
 
 <details>
-    <summary>Pomu Rainpuff</summary>
+    <summary>Pomu Rainpuff (15)</summary>
     <img src="gifs/pomutori.gif" height="256">
     <img src="gifs/choo_choo.gif" height="256">
     <img src="gifs/LazuLight_1_year.gif" height="256">
@@ -406,23 +406,23 @@ Last updated: 2023-08-29 16:46:49 UTC
 </details>
 
 <details>
-    <summary>Rosemi Lovelock</summary>
+    <summary>Rosemi Lovelock (2)</summary>
     <img src="gifs/fightstick.gif" height="256">
     <img src="gifs/Brosemi.gif" height="256">
 </details>
 
 <details>
-    <summary>Selen Tatsuki</summary>
+    <summary>Selen Tatsuki (1)</summary>
     <img src="gifs/SelenBday2021.gif" height="256">
 </details>
 
 <details>
-    <summary>Shirakami Fubuki</summary>
+    <summary>Shirakami Fubuki (1)</summary>
     <img src="gifs/confession.gif" height="256">
 </details>
 
 <details>
-    <summary>Takanashi Kiara</summary>
+    <summary>Takanashi Kiara (16)</summary>
     <img src="gifs/pomutori.gif" height="256">
     <img src="gifs/mythiversary.gif" height="256">
     <img src="gifs/birbday.gif" height="256">
@@ -442,11 +442,11 @@ Last updated: 2023-08-29 16:46:49 UTC
 </details>
 
 <details>
-    <summary>Usada Pekora</summary>
+    <summary>Usada Pekora (1)</summary>
     <img src="gifs/battle_for_pekora.gif" height="256">
 </details>
 
 <details>
-    <summary>Voms Project</summary>
+    <summary>Voms Project (1)</summary>
     <img src="gifs/kick_the_baby.gif" height="256">
 </details>

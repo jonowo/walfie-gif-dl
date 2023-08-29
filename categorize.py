@@ -23,7 +23,7 @@ with open(FN, "w") as f:
     for tag in tags:
         print(file=f)
         print("<details>", file=f)
-        print(f"    <summary>{string.capwords(tag)}</summary>", file=f)
+        print(f"    <summary>{string.capwords(tag)} ({len(categories[tag])})</summary>", file=f)
         for post in categories[tag]:
             print(f'    <img src="{post["path"]}" height="256">', file=f)
         print("</details>", file=f)
