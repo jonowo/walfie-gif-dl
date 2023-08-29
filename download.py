@@ -45,7 +45,7 @@ for post in data[::-1]:
     post["path"] = fn
     with open(fn, "wb") as f:
         f.write(resp.content)
-    time.sleep(0.6)
+    time.sleep(5)
 logger.info("Download complete.")
 
 with open("data.json", "w") as f:

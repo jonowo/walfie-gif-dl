@@ -2,7 +2,7 @@ name: main
 
 on:
   schedule:
-    - cron: '42 * * * *'
+    - cron: '42 7 * * *'
 
 jobs:
   update:
@@ -28,14 +28,11 @@ jobs:
           pip install -U pip setuptools wheel
           pip install -Ur requirements.txt
 
-      - name: Update
+      - name: Update then commit and push changes
         run: |
           python fetch.py
           python download.py
           python categorize.py
-
-      - name: Commit files and push changes
-        run: |
           git config --local user.name 'jonowo/walfie-gif-dl'
           git config --local user.email 'jowonowo+automated@gmail.com'
           git commit -am "Automated update"
