@@ -33,7 +33,6 @@ def get_filename(name) -> str:
 
 async def download(client: AsyncClient, post: dict) -> None:
     """Download GIFs"""
-    # Download older posts first to make sure their file names are not taken
     try:
         resp = await client.get(post["gif"])
         resp.raise_for_status()
@@ -65,6 +64,8 @@ with open("data.json") as f:
 
 chunk_size = 10
 logger.info(f"Downloading {len(data)} GIFs...")
+# Download older posts first to make sure their file names are not taken
+data = list(reversed(data))
 for chunk in range(0, len(data), chunk_size):
     data_chunk = data[chunk:chunk+chunk_size]
     asyncio.run(download_bunch(data_chunk))
