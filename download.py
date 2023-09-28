@@ -66,8 +66,9 @@ with open("data.json") as f:
 chunk_size = 10
 logger.info(f"Downloading {len(data)} GIFs...")
 for chunk in range(0, len(data), chunk_size):
-    asyncio.run(download_bunch(data[chunk:chunk+chunk_size]))
-    logger.info(f"{chunk+chunk_size}/{len(data)} Downloaded")
+    data_chunk = data[chunk:chunk+chunk_size]
+    asyncio.run(download_bunch(data_chunk))
+    logger.info(f"{chunk + len(data_chunk)}/{len(data)} Downloaded")
 logger.info("Download complete.")
 
 with open("data.json", "w") as f:
