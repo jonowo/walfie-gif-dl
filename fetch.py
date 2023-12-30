@@ -6,8 +6,9 @@ from datetime import datetime
 
 from httpx import Client
 
-POSTS_PER_PAGE = 200
+POSTS_PER_PAGE = 500
 URL = "https://walfiegif.wordpress.com/"
+
 POST_PATTERN = re.compile(r"<article.*?id=\"post-\d+\".*?>[\s\S]+?</article>")
 IMAGE_PATTERN = re.compile(r"<img.*?src=\"(.*?)[\?|\"].*?>")
 POST_URL_PATTERN = re.compile(r"<h1 class=\"entry-title\"><a href=\"(.*?)\".*?>")
@@ -57,7 +58,6 @@ while True:
                 "hololive"
             ]
             logger.info(f"Tags added manually for post {title!r}.")
-
         elif not tags:
             tags = []
             logger.warning(f"No tags found for post {title!r}.")
