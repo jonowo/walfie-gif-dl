@@ -2,7 +2,8 @@ import json
 import string
 from datetime import datetime
 
-FN = "categories.md"
+FILENAME = "categories.md"
+GIF_HEIGHT = 256
 
 with open("data.json") as f:
     data = json.load(f)
@@ -17,13 +18,13 @@ for post in data:
     for tag in post["tags"]:
         categories[tag].append(post)
 
-with open(FN, "w") as f:
+with open(FILENAME, "w") as f:
     print("# Categories", file=f)
-    print("Last updated:", str(datetime.utcnow().replace(microsecond=0)), "UTC", file=f)
+    print(f"Last updated: {datetime.utcnow().replace(microsecond=0)} UTC", file=f)
     for tag in tags:
         print(file=f)
         print("<details>", file=f)
         print(f"    <summary>{string.capwords(tag)} ({len(categories[tag])})</summary>", file=f)
         for post in categories[tag]:
-            print(f'    <img src="{post["path"]}" height="256">', file=f)
+            print(f'    <img src="{post["path"]}" height="{GIF_HEIGHT}">', file=f)
         print("</details>", file=f)

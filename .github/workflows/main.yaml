@@ -12,11 +12,6 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Setup Geckodriver (Node 16)
-        uses: browser-actions/setup-geckodriver@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -26,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -U pip setuptools wheel
-          pip install -Ur requirements.txt
+          pip install -r requirements.txt
 
       - name: Update then commit and push changes
         run: |
