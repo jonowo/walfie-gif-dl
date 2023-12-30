@@ -1,17 +1,20 @@
+import asyncio
 import itertools
 import json
 import logging
 import os
 import re
 import shutil
-import time
+from typing import Iterable
 
-import requests
+from httpx import AsyncClient, TimeoutException
 
 DOWNLOAD_PATH = "gifs/"
+TIMEOUT = 5
 
 logging.basicConfig(level="INFO", format="%(asctime)s - %(name)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
+logging.getLogger("httpx").setLevel(logging.WARNING)
 
 
 def get_filename(name) -> str:
@@ -28,6 +31,30 @@ def get_filename(name) -> str:
             return DOWNLOAD_PATH + fn + str(i) + ext
 
 
+async def download(client: AsyncClient, post: dict) -> None:
+    """Download GIFs"""
+    try:
+        resp = await client.get(post["gif"])
+        resp.raise_for_status()
+
+    except TimeoutException as e:
+        logger.warning(f"{e} for {post['url']}. Waiting for {TIMEOUT}")
+        await asyncio.sleep(TIMEOUT)
+        return await download(client, post)
+
+    else:
+        fn = get_filename(post["title"])
+        post["path"] = fn
+
+        with open(fn, "wb") as f:
+            f.write(resp.content)
+
+
+async def download_bunch(posts: Iterable[dict]) -> None:
+    async with AsyncClient() as client:
+        await asyncio.gather(*[download(client, post) for post in posts])
+
+
 if os.path.isdir(DOWNLOAD_PATH):
     shutil.rmtree(DOWNLOAD_PATH)
 os.mkdir(DOWNLOAD_PATH)
@@ -35,17 +62,14 @@ os.mkdir(DOWNLOAD_PATH)
 with open("data.json") as f:
     data = json.load(f)
 
-# Download GIFs
+chunk_size = 10
 logger.info(f"Downloading {len(data)} GIFs...")
 # Download older posts first to make sure their file names are not taken
-for post in data[::-1]:
-    resp = requests.get(post["gif"])
-    resp.raise_for_status()
-    fn = get_filename(post["title"])
-    post["path"] = fn
-    with open(fn, "wb") as f:
-        f.write(resp.content)
-    time.sleep(5)
+data = list(reversed(data))
+for chunk in range(0, len(data), chunk_size):
+    data_chunk = data[chunk:chunk+chunk_size]
+    asyncio.run(download_bunch(data_chunk))
+    logger.info(f"{chunk + len(data_chunk)}/{len(data)} Downloaded")
 logger.info("Download complete.")
 
 with open("data.json", "w") as f:
