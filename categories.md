@@ -1,5 +1,5 @@
 # Categories
-Last updated: 2024-01-12 07:49:59 UTC
+Last updated: 2024-01-13 07:49:56 UTC
 
 <details>
     <summary>A-chan (1)</summary>
@@ -131,6 +131,11 @@ Last updated: 2024-01-12 07:49:59 UTC
     <img src="gifs/LazuLight_1_year.gif" height="256">
     <img src="gifs/EliraGotCake2021.gif" height="256">
     <img src="gifs/paindora.gif" height="256">
+</details>
+
+<details>
+    <summary>Essie (1)</summary>
+    <img src="gifs/essie_birthday_2024.gif" height="256">
 </details>
 
 <details>
@@ -285,7 +290,8 @@ Last updated: 2024-01-12 07:49:59 UTC
 </details>
 
 <details>
-    <summary>Indie Vtuber (5)</summary>
+    <summary>Indie Vtuber (6)</summary>
+    <img src="gifs/essie_birthday_2024.gif" height="256">
     <img src="gifs/munibug_sip.gif" height="256">
     <img src="gifs/chocojax_drawing.gif" height="256">
     <img src="gifs/Chia_1_year.gif" height="256">
