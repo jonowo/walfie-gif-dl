@@ -1,5 +1,5 @@
 # Categories
-Last updated: 2024-01-19 07:49:55 UTC
+Last updated: 2024-01-20 07:49:52 UTC
 
 <details>
     <summary>A-chan (1)</summary>
@@ -332,7 +332,8 @@ Last updated: 2024-01-19 07:49:55 UTC
 </details>
 
 <details>
-    <summary>Nijisanji (23)</summary>
+    <summary>Nijisanji (24)</summary>
+    <img src="gifs/Pomudachi.gif" height="256">
     <img src="gifs/Pomu_dance.gif" height="256">
     <img src="gifs/pomutori.gif" height="256">
     <img src="gifs/choo_choo.gif" height="256">
@@ -394,7 +395,8 @@ Last updated: 2024-01-19 07:49:55 UTC
 </details>
 
 <details>
-    <summary>Pomu Rainpuff (16)</summary>
+    <summary>Pomu Rainpuff (17)</summary>
+    <img src="gifs/Pomudachi.gif" height="256">
     <img src="gifs/Pomu_dance.gif" height="256">
     <img src="gifs/pomutori.gif" height="256">
     <img src="gifs/choo_choo.gif" height="256">
