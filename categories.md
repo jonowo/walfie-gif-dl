@@ -1,5 +1,5 @@
 # Categories
-Last updated: 2024-07-20 07:49:28 UTC
+Last updated: 2024-07-21 07:49:51 UTC
 
 <details>
     <summary>A-chan (1)</summary>
@@ -134,7 +134,8 @@ Last updated: 2024-07-20 07:49:28 UTC
 </details>
 
 <details>
-    <summary>Essie (1)</summary>
+    <summary>Essie (2)</summary>
+    <img src="gifs/essie_anniversary_2024.gif" height="256">
     <img src="gifs/essie_birthday_2024.gif" height="256">
 </details>
 
@@ -290,7 +291,8 @@ Last updated: 2024-07-20 07:49:28 UTC
 </details>
 
 <details>
-    <summary>Indie Vtuber (6)</summary>
+    <summary>Indie Vtuber (7)</summary>
+    <img src="gifs/essie_anniversary_2024.gif" height="256">
     <img src="gifs/essie_birthday_2024.gif" height="256">
     <img src="gifs/munibug_sip.gif" height="256">
     <img src="gifs/chocojax_drawing.gif" height="256">
