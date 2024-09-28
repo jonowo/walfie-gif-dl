@@ -1,5 +1,5 @@
 # Categories
-Last updated: 2024-09-27 07:49:53 UTC
+Last updated: 2024-09-28 07:49:29 UTC
 
 <details>
     <summary>A-chan (1)</summary>
@@ -132,6 +132,11 @@ Last updated: 2024-09-27 07:49:53 UTC
     <img src="gifs/LazuLight_1_year.gif" height="256">
     <img src="gifs/EliraGotCake2021.gif" height="256">
     <img src="gifs/paindora.gif" height="256">
+</details>
+
+<details>
+    <summary>Elis (1)</summary>
+    <img src="gifs/elis_birthday_2024.gif" height="256">
 </details>
 
 <details>
