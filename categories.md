@@ -1,5 +1,5 @@
 # Categories
-Last updated: 2024-09-30 07:49:36 UTC
+Last updated: 2024-10-01 07:49:40 UTC
 
 <details>
     <summary>A-chan (1)</summary>
@@ -17,7 +17,8 @@ Last updated: 2024-09-30 07:49:36 UTC
 </details>
 
 <details>
-    <summary>Amelia Watson (56)</summary>
+    <summary>Amelia Watson (57)</summary>
+    <img src="gifs/Ame_waving.gif" height="256">
     <img src="gifs/Ame_sitting.gif" height="256">
     <img src="gifs/Ame_cheering.gif" height="256">
     <img src="gifs/Ame_kick.gif" height="256">
@@ -179,7 +180,8 @@ Last updated: 2024-09-30 07:49:36 UTC
 </details>
 
 <details>
-    <summary>Hololive (105)</summary>
+    <summary>Hololive (106)</summary>
+    <img src="gifs/Ame_waving.gif" height="256">
     <img src="gifs/Ame_sitting.gif" height="256">
     <img src="gifs/Ame_cheering.gif" height="256">
     <img src="gifs/Ame_kick.gif" height="256">
