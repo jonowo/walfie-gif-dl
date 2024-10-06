@@ -1,5 +1,5 @@
 # Categories
-Last updated: 2024-10-05 07:49:52 UTC
+Last updated: 2024-10-06 07:49:39 UTC
 
 <details>
     <summary>A-chan (1)</summary>
@@ -124,7 +124,8 @@ Last updated: 2024-10-05 07:49:52 UTC
 </details>
 
 <details>
-    <summary>Chocojax (1)</summary>
+    <summary>Chocojax (2)</summary>
+    <img src="gifs/chocojax_birthday_2024.gif" height="256">
     <img src="gifs/chocojax_drawing.gif" height="256">
 </details>
 
@@ -300,7 +301,8 @@ Last updated: 2024-10-05 07:49:52 UTC
 </details>
 
 <details>
-    <summary>Indie Vtuber (7)</summary>
+    <summary>Indie Vtuber (8)</summary>
+    <img src="gifs/chocojax_birthday_2024.gif" height="256">
     <img src="gifs/essie_anniversary_2024.gif" height="256">
     <img src="gifs/essie_birthday_2024.gif" height="256">
     <img src="gifs/munibug_sip.gif" height="256">
