@@ -1,5 +1,5 @@
 # Categories
-Last updated: 2025-09-07 07:49:34 UTC
+Last updated: 2025-09-08 07:49:39 UTC
 
 <details>
     <summary>A-chan (1)</summary>
@@ -301,7 +301,9 @@ Last updated: 2025-09-07 07:49:34 UTC
 </details>
 
 <details>
-    <summary>Indie Vtuber (9)</summary>
+    <summary>Indie Vtuber (11)</summary>
+    <img src="gifs/vacu0uClap.gif" height="256">
+    <img src="gifs/vacu0uFish.gif" height="256">
     <img src="gifs/Vacu0usly_birthday_2025.gif" height="256">
     <img src="gifs/chocojax_birthday_2024.gif" height="256">
     <img src="gifs/essie_anniversary_2024.gif" height="256">
@@ -471,7 +473,9 @@ Last updated: 2025-09-07 07:49:34 UTC
 </details>
 
 <details>
-    <summary>Vacu0usly (1)</summary>
+    <summary>Vacu0usly (3)</summary>
+    <img src="gifs/vacu0uClap.gif" height="256">
+    <img src="gifs/vacu0uFish.gif" height="256">
     <img src="gifs/Vacu0usly_birthday_2025.gif" height="256">
 </details>
 
